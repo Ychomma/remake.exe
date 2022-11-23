@@ -31,4 +31,12 @@ public class controller {
             return "插入失败";
         }
     }
+
+//    @PostMapping("/update")
+//    public  String update(Talent talent){
+//        return
+//
+//    }
+
+
 }
